@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center"><i><b>No se si voy a tener exito, pero aseguro que lo intentare.</b></i></p>
+<p align="center"><i><b>No se si voy a tener exito, pero aseguro intentarlo.</b></i></p>
 
 ### Lenguajes:
 
