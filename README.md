@@ -2,7 +2,7 @@
   <img width="400px" src="https://github.com/krootca/krootca/blob/main/lain_nexo3.gif">
 </p>
 
-<h1 align="center">L E S S</h1>
+<h1 align="center">L E S S - P A R R O T</h1>
 
 <p align="center">No se si voy a tener exito, pero aseguro que lo intentare.</p>
 
