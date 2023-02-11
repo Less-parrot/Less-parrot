@@ -8,6 +8,6 @@
 
 <img src="https://img.shields.io/badge/Python-yellow" align="left"
      alt="Python">
-
+<br>
 <img src="https://img.shields.io/badge/Bash Script-yellow" align="left"
      alt="Bash Script">
