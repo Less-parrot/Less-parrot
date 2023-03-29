@@ -1,9 +1,11 @@
-<h2 align="center"><i><b>L E S S - P A R R O T</b></i></h2>
+# <h2 align="center"><i><b>L E S S - P A R R O T</b></i></h2>
 <br>
 
-<p align="center"> <img width="400px" src="https://i.pinimg.com/564x/08/0c/0c/080c0c12cb6359c3c60541729b6d6f5f.jpg"></p>
+<p align="center"> <img width="600px" height="450px" src="https://i.pinimg.com/564x/dc/ed/8f/dced8f34e397bdb95a84a4658c19fa24.jpg" style="border: 2px solid black;"></p>
 
-<p align="center"><i><b>No se si voy a tener exito, pero aseguro intentarlo.</b></i></p>
+
+
+### <p align="center"><i><b>No se si voy a tener exito, pero aseguro intentarlo.</b></i></p>
 
 ### Lenguajes:
 
