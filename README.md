@@ -5,7 +5,7 @@
 
 
 
-### <p align="center"><i><b>No se si voy a tener exito, pero aseguro intentarlo.</b></i></p>
+### <p align="center"><i><b>solo lo intentaré</b></i></p>
 
 ### Lenguajes:
 
@@ -14,3 +14,6 @@
 <br>
 <img src="https://img.shields.io/badge/Bash Script-yellow" align="left"
      alt="Bash Script">
+<br>
+<img src="https://img.shields.io/badge/Python-red" align="left"
+     alt="Kotlin">
