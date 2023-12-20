@@ -1,7 +1,7 @@
-# <h2 align="center"><i><b>L E S S - P A R R O T</b></i></h2>
+# <h2 align="center"><i><b>L E S S</b></i></h2>
 <br>
 
-<p align="center"> <img width="600px" height="450px" src="https://i.pinimg.com/564x/dc/ed/8f/dced8f34e397bdb95a84a4658c19fa24.jpg" style="border: 2px solid black;"></p>
+<p align="center"> <img width="500px" height="450px" src="https://lessapi.com.co/imagelogoless12345678910.png" style="border: 2px solid black;"></p>
 
 
 
